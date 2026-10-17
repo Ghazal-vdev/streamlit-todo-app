@@ -1,0 +1,8 @@
+tasks.db
+app.log
+exported_tasks.json
+report_*.json
+__pycache__/
+.pytest_cache/
+.venv/
+myven/
